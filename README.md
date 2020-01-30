@@ -1,1 +1,1 @@
-# K-Means-Cluster
+# K-Means-clustering
